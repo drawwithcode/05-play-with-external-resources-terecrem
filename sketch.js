@@ -8,7 +8,7 @@ var analyzer2;
 function preload(){
     mySong = loadSound('assets/musicauno.mp3');
     mySong2 = loadSound('assets/musicdue.mp3');
-     myImage = loadImage('./assets/uno.jpg')
+     myImage = loadImage('assets/uno.jpg')
 }
 
 function setup() {
